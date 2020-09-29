@@ -16,7 +16,7 @@ Get their heart rate up at least once a day.<br />
 
 <br />
 
-Treatments:
+Treatments: <br />
 IV Vitamin C followed by Hyberbaric Oxygen Treatment <br />
 IV Vitamin C: 500mg Ascorbic Acid per kg of body weight, diluted in 0.9% saline solution (~250ml per 30ml AA), over slow drip of 60-80 minutes <br />
 HBOT: 100% oxygen at 2atm for 1 hour <br />
